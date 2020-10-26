@@ -8,7 +8,7 @@
 
 * Open the dicrectory in an IDE such as VS code. 
 
-* Run the command `npm install` to install all node-modules needed
+* Run the command `npm install` in a terminal to install packages.
 
 ## Commands
 
